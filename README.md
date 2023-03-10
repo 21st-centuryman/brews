@@ -12,5 +12,10 @@ This is a project for me to create homebrew packages which I use for testing and
 ## ⇁  Contributing
 If I am adding a package you are familiar with or I could do a better version of this package feel free to send in a PR.
 
-## ⇁  Installing
-To be added later
+## ⇁  Installation
+`brew install 21centuryman/brews/<formula>`
+
+Or `brew tap 21centuryman/brews` and then `brew install <formula>`.
+
+## ⇁ Brew tap documentation
+`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).

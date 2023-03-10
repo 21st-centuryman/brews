@@ -1,6 +1,6 @@
 <div align="center">
 
-## 21st century man/Brews
+## 21st century man / Brews
 #### A personal homebrew tap for testing and eventually deploying applications
 
 [![Homebrew](https://img.shields.io/badge/Homebrew-white.svg?style=for-the-badge&logoColor=FBB040&logo=homebrew)](https://brew.sh/)

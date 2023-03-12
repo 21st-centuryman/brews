@@ -1,6 +1,6 @@
 <div align="center">
 
-## 21st Century Man / Brews
+## 21st Century Man / homebrew-21st
 #### A personal homebrew tap for testing and eventually deploying applications
 
 [![Homebrew](https://img.shields.io/badge/Homebrew-white.svg?style=for-the-badge&logoColor=FBB040&logo=homebrew)](https://brew.sh/)
@@ -13,9 +13,9 @@ This is a project for me to create homebrew packages which I use for testing and
 If I am adding a package you are familiar with or I could do a better version of this package feel free to send in a PR.
 
 ## ⇁  Installation
-`brew install 21centuryman/brews/<formula>`
+`brew install 21centuryman/homebrew-21st/<formula>`
 
-Or `brew tap 21centuryman/brews` and then `brew install <formula>`.
+Or `brew tap 21centuryman/homebrew-21st` and then `brew install <formula>`.
 
 ## ⇁ Brew tap documentation
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).

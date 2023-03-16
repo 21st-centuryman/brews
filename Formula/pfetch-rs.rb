@@ -13,6 +13,6 @@ class PfetchRs < Formula
   end
 
   test do
-    assert_match "uptime", shell_output("#{bin}/pfetch-rs")
+    assert_match "uptime", shell_output("#{bin}/pfetch")
   end
 end
